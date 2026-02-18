@@ -7,6 +7,9 @@ It models the complete financial lifecycle of a healthcare encounter — from pa
 ---
 
 ## 🏗 Database Schema
+## ER Diagram
+
+![Healthcare Revenue Cycle ER Diagram](er_diagram.png)
 
 The system includes the following tables:
 
